@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<version>
+	<name>justintv</name>
+	<tag>2</tag>
+	<date>05/03/2012</date>
+	<changes>
+	    Arreglado problemas con el menu de las categorias 
+	</changes>
+</version>
